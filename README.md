@@ -48,7 +48,7 @@ Next.js 15, React 19 ve TypeScript ile geliştirilmiş modern, tam özellikli bi
 
 1. **Depoyu klonlayın**
 ```bash
-git clone https://github.com/yourusername/api-document-explorer.git
+git clone https://github.com/UfukSeker41/api-document-explorer.git
 cd api-document-explorer
 ```
 
